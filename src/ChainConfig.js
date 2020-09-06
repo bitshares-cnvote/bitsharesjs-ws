@@ -6,8 +6,8 @@ var config = {
   review_in_secs_committee: 24 * 60 * 60,
   networks: {
     BitShares: {
-      core_asset: "BTS",
-      address_prefix: "BTS",
+      core_asset: "NBS",
+      address_prefix: "NBS",
       chain_id:
         "905413ea3fd7842629fc7a38e81b32603e2a42bca795a95524c95475a7e31404"
     },
@@ -18,8 +18,8 @@ var config = {
         "45ad2d3f9ef92a49b55c2227eb06123f613bb35dd08bd876f2aea21925a67a67"
     },
     Test: {
-      core_asset: "TEST",
-      address_prefix: "TEST",
+      core_asset: "NBS",
+      address_prefix: "NBS",
       chain_id:
         "905413ea3fd7842629fc7a38e81b32603e2a42bca795a95524c95475a7e31404"
     },

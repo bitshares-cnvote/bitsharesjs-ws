@@ -9,7 +9,7 @@ var config = {
       core_asset: "BTS",
       address_prefix: "BTS",
       chain_id:
-        "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
+        "905413ea3fd7842629fc7a38e81b32603e2a42bca795a95524c95475a7e31404"
     },
     Muse: {
       core_asset: "MUSE",
@@ -21,7 +21,7 @@ var config = {
       core_asset: "TEST",
       address_prefix: "TEST",
       chain_id:
-        "39f5e2ede1f8bc1a3a54a7914414e3779e33193f1f5693510e73cb7a87617447"
+        "905413ea3fd7842629fc7a38e81b32603e2a42bca795a95524c95475a7e31404"
     },
     Obelisk: {
       core_asset: "GOV",

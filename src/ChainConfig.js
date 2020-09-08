@@ -14,8 +14,7 @@ var config = {
       core_asset: "NBS",
       address_prefix: "NBS",
       chain_id:
-        //  nbs todo mainnet chain id
-        "905413ea3fd7842629fc7a38e81b32603e2a42bca795a95524c95475a7e31404"
+        "a700288e70d97cf01d42c924081feb14c611cfe45d74ab9e7c329ec1772b9827"
     },
     //  new bitshares testnet
     Test: {

@@ -14,7 +14,7 @@ var config = {
       core_asset: "NBS",
       address_prefix: "NBS",
       chain_id:
-        "a700288e70d97cf01d42c924081feb14c611cfe45d74ab9e7c329ec1772b9827"
+        "cd931cb96d657ff0ef0226f7ae9d25175b3cc96a84490a674ed36170830324e7"
     },
     //  new bitshares testnet
     Test: {
